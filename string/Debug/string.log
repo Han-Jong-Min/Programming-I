@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\user\source\repos\string\string\main.c(13,13): warning C4013: 'test_string'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\string\string\main.c(128): warning C4716: 'test_strlen': 값을 반환해야 합니다.
+  string.vcxproj -> C:\Users\user\source\repos\string\Debug\string.exe
